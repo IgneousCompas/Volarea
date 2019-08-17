@@ -1,3 +1,1 @@
 To start the program, double click on "volarea.py". Attempting to do the same on the other files will not do anything. If you messed around in the config file ("config.txt") and broke it, you can always reset it in the program.
-
-Made by IgneousCompas
