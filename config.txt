@@ -1,0 +1,8 @@
+togglePaintTrue
+toggleWeightTrue
+!!Custom density 1
+!%500
+@@Custom density 2
+@%1000
+$$Custom density 3
+$%1500
